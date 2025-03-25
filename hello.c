@@ -8,7 +8,8 @@ int main()
 =======
 	printf("hello world!");
 	printf("bye");
-//updated
+//comment comment comment
+//update
 >>>>>>> develop
 }
 
